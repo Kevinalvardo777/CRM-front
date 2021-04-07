@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1, 
+        "subject": "ssl issue",
+        "status": "Respuesta de cliente pendiente", 
+        "addedAt": "2021-04-06"
+    }, 
+    {
+        "id": 2, 
+        "subject": "ssl issue",
+        "status": "Respuesta de cliente pendiente", 
+        "addedAt": "2021-04-06"
+    }, 
+    {
+        "id": 3, 
+        "subject": "ssl issue",
+        "status": "Respuesta de cliente pendiente", 
+        "addedAt": "2021-04-06"
+    }, 
+    {
+        "id": 4, 
+        "subject": "ssl issue",
+        "status": "Respuesta de cliente pendiente", 
+        "addedAt": "2021-04-06"
+    }, {
+        "id": 5, 
+        "subject": "ssl issue",
+        "status": "Respuesta de cliente pendiente", 
+        "addedAt": "2021-04-06"
+    }
+]
